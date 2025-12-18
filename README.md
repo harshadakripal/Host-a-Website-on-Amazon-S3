@@ -1,4 +1,4 @@
-Host a Static Website on Amazon S3
+Host a Static Website on Amazon S3 <br>
 📌 Project Overview
 
 This project demonstrates how to host a static website using Amazon S3 as part of my hands-on learning for AWS Cloud fundamentals. The goal was to understand how cloud storage, access control, and static website hosting work together to deliver a live website.
